@@ -9,4 +9,5 @@ This is the list of the projects (I annotated next to the name if the related da
 5)Exploratory analysis with hypothesis testing and OLS regressions\
 6)Image processing\
 7)Sentiment analysis(dataset is in the corrispondent folder)\
-8)Application of simple and multivariate regression in a ML project
+8)Application of simple and multivariate regression in a ML project\
+9)Application of logistic regression and oversampling in a ML project
